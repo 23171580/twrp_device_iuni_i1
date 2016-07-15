@@ -1,5 +1,7 @@
 TeamWin Recovery Project
 
+Tested on twrp 3.0.2-0
+
 Device configuration for IUNI I1 (i1)
 =====================================
 
