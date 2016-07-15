@@ -41,6 +41,17 @@ PRODUCT_DEVICE := i1
 PRODUCT_BRAND := IUNI
 PRODUCT_MODEL := I1
 PRODUCT_MANUFACTURER := IUNI
+PRODUCT_CHARACTERISTICS := nosdcard
+#Default region&language
+PRODUCT_DEFAULT_REGION := CN
+PRODUCT_DEFAULT_LANGUAGE := zh
+
+# Device uses high-density artwork where available
+PRODUCT_AAPT_CONFIG := normal hdpi xhdpi xxhdpi
+PRODUCT_AAPT_PREF_CONFIG := xxhdpi
+
+#Language config
+PRODUCT_LOCALES := en_US zh_CN zh_TW zh_HK
 
 # Kernel inline build
 #TARGET_KERNEL_CONFIG := i1_defconfig
