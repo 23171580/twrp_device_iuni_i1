@@ -39,7 +39,7 @@ PRODUCT_COPY_FILES += device/iuni/i1/fstab.qcom:recovery/root/fstab.qcom
 PRODUCT_NAME := omni_i1
 PRODUCT_DEVICE := i1
 PRODUCT_BRAND := IUNI
-PRODUCT_MODEL := I1
+PRODUCT_MODEL := U830
 PRODUCT_MANUFACTURER := IUNI
 
 # Kernel inline build
